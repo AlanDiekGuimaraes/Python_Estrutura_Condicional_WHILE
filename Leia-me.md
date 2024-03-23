@@ -110,4 +110,44 @@ A percentagem de votos em branco sobre o total de votos.
 
 Para finalizar o conjunto de votos tem-se o valor zero.
 
-13 - 
+13 - Solicitar um numero inteiro positivo N ao usuario. imprimir os numeos de N a 1.
+Realizar o exercicio usando loops for e while
+
+14 - Solicitar um número inteiro positivo N ao usuário. Imprimir os números de N a 1 trocando o sinal dos números. 
+Realizar o exercício usando loops for e while. Exemplo para N igual a 5:
+
+15 - Solicitar um número inteiro positivo N ao usuário. Imprimir os números de N a 1 todos os números negativos. 
+Realizar o exercício usando loops for e while. Exemplo para N igual a 5:
+
+16 - Solicitar um número inteiro positivo N ao usuário e imprimir i^2 para ) < i < N.
+Por exemplo, para N = 5, serão impressos: 1, 4, 9, 16.
+
+17 - Solicitar uma palavra ao usuário e dizer se a palavra é um palindromo, isto é, 
+pode ser lida igualmente da esquerda para a direita e vice-versa. Exemplos de palavras que são palíndromos:
+Ovo, radar, mirim, arara reviver.
+
+18 - Fazer um programa que solicita um número inteiro positivo N ao usuário e imprime o seguinte padrão na tela.
+Por Exemplo, para
+
+N = 5
+ -----
+|     |
+|     |
+|     |
+|     |
+|     |
+ -----
+
+
+19 - Fazer um programa que solicita um número inteiro positivo N ao usuário e imprime o seguinte padrão na tela. 
+Por exemplo, para N = 5:
+
++ 
+
+++ 
+
++++ 
+
+++++ 
+
++++++ 
